@@ -32,3 +32,8 @@ I am 19 years old. I am studying to be a customs officer, I will graduate from u
 1. I will finish studying to be a customs officer in 2.5 years (State Maritime University named after Admiral F.F.Ushakov).
 2. I finished a workshop on creating websites by Anna Blok.
 3. Graduated from the free online course "Web Layout designer: The Beginning" in WAYUP.
+
+## Languages
+- **English** - B2 (passed the main exams after school; been practicing communicating with native speakers)
+- **Russian** - native
+- **Ukrainian** - native
