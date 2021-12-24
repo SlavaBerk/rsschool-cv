@@ -1,8 +1,8 @@
-#[rsschool-cv](https://slavaberk.github.io/rsschool-cv/)
+[rsschool-cv](https://slavaberk.github.io/rsschool-cv/)
 ------------------------------------------
-#Miroslava Zagidulina
+# Miroslava Zagidulina
 
-##My contacts
+## My contacts
 - ***Phone:*** +7-952-834-31-62
 - ***E-mail:*** miroslava.ber202@gmail.com
 - ***GitHub:*** [SlavaBerk](https://github.com/SlavaBerk)
