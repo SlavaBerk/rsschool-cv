@@ -17,3 +17,18 @@ I am 19 years old. I am studying to be a customs officer, I will graduate from u
 - Git, GitHub
 - Adobe Photoshop, Figma
 - VS Code, Sublime Text 3
+
+<!-- add a code example later -->
+
+## My projects
+*on GitHub:*
+- [ShinyMigom](https://slavaberk.github.io/Shiny-Migom/)
+- [Mogo](https://slavaberk.github.io/Mogo/)
+- [Activebox](https://slavaberk.github.io/Activebox/)
+- [Burgers](https://slavaberk.github.io/Burger/)
+- [CV](https://github.com/SlavaBerk/rsschool-cv/blob/gh-pages/cv.md)
+
+## Education
+1. I will finish studying to be a customs officer in 2.5 years (State Maritime University named after Admiral F.F.Ushakov).
+2. I finished a workshop on creating websites by Anna Blok.
+3. Graduated from the free online course "Web Layout designer: The Beginning" in WAYUP.
