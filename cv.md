@@ -18,7 +18,14 @@ I am 19 years old. I am studying to be a customs officer, I will graduate from u
 - Adobe Photoshop, Figma
 - VS Code, Sublime Text 3
 
-<!-- add a code example later -->
+## Code example
+```
+function summ(a, b){
+    return a + b;
+}
+let result = summ(5, 10);
+console.log(result);
+```
 
 ## My projects
 *on GitHub:*
