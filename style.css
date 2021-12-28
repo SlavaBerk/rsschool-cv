@@ -103,6 +103,7 @@ section {
 
 .intro__contacts {
     min-width: 40%;
+    border-radius: 10px;
     background: rgba(0, 0, 0, 0.2);
 }
 
@@ -110,21 +111,31 @@ section {
     text-align: center;
     font-size: 40px;
     letter-spacing: 5px;
+    color: #e2e4b9;
 }
 
 .contacts__list {
-    margin-left: 40px;
-    margin-top: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.contacts__list li {
+    margin-top: 25px;
 }
 
 .contacts__list li a {
-    display: flex;
-    align-items: center;
     text-decoration: none;
     font-size: 20px;
 }
 
 .contacts__list li a i {
-    padding-right: 25px;
+    width: 40px;
     font-size: 30px;
+}
+
+.contacts__list li a:hover {
+    color: #453136;
+    transition: all 0.2s linear;
 }
