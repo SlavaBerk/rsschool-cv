@@ -50,10 +50,7 @@ section {
 
 .menu {
 	display: flex;
-}
-
-.menu li {
-	margin-right: 40px;
+    justify-content: space-around;
 }
 
 .menu li a {
@@ -65,11 +62,17 @@ section {
 
 .menu li a:hover {
 	border-bottom: 1px solid #ffffff;
+    color: #e2e4b9;
 }
 
 .intro {
+    display: flex;
+    justify-content: space-between;
 	margin-top: 150px;
-	text-transform: uppercase;
+}
+
+.intro__info {
+    text-transform: uppercase;
 }
 
 .intro__img {
@@ -84,6 +87,7 @@ section {
 	color: #ffffff;
 	margin-bottom: 0;
     margin-top: 10px;
+    text-transform: none;
 }
 
 .intro__title {
@@ -95,4 +99,32 @@ section {
 
 .intro__title span {
     color: #e2e4b9;
+}
+
+.intro__contacts {
+    min-width: 40%;
+    background: rgba(0, 0, 0, 0.2);
+}
+
+.contacts__title {
+    text-align: center;
+    font-size: 40px;
+    letter-spacing: 5px;
+}
+
+.contacts__list {
+    margin-left: 40px;
+    margin-top: 30px;
+}
+
+.contacts__list li a {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.contacts__list li a i {
+    padding-right: 25px;
+    font-size: 30px;
 }
