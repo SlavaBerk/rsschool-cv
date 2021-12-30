@@ -190,7 +190,6 @@ li {
 
 .skills {
     display: flex;
-    
 }
 
 .skills__item {
@@ -228,4 +227,33 @@ li {
 
 #git, #figma, #vscode {
     color: #000000;
+}
+
+/* Code */
+
+.code__inner {
+    padding: 20px 30px;
+    border-radius: 10px;
+    background: rgba(0, 0, 0, 0.1);
+}
+
+.code__inner .blue {
+    color: blue;
+    font-style: italic;
+}
+
+.code__inner .green {
+    color: green;
+}
+
+.code__inner .orange {
+    color: orange;
+}
+
+.code__inner .pink {
+    color: #e63a57;
+}
+
+.code__inner .violet {
+    color: #8d238d;
 }
