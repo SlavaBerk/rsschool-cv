@@ -399,3 +399,32 @@ li {
 .languages__text.ukraine {
     background: url('assets/images/languages/ukraine.png') round;
 }
+
+/* Footer */
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background: #c5c5c5;
+}
+
+.footer__year {
+    width: 100px;
+    text-align: center;
+    font-size: 30px;
+    line-height: 1;
+    font-weight: 700;
+    color: #000000;
+    letter-spacing: 2px;
+}
+
+.footer__github a {
+    font-size: 40px;
+    color: #000000;
+}
+
+.footer__logo a img {
+    width: 100px;
+}
