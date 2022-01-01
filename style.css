@@ -356,10 +356,10 @@ li {
 }
 
 .education__text {
-    flex: 0 0 32%;
+    flex: 0 0 28%;
     padding: 20px 40px;
     background: rgba(153, 155, 113, 0.7);
-    font-size: 30px;
+    font-size: 23px;
     border: 2px dashed #e5eb7c;
     border-radius: 10px;
     box-shadow: 0 0 0 4px #949680, 2px 1px 6px 4px rgba(144, 146, 4, 0.5);
